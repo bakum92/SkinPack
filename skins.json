@@ -1,0 +1,36 @@
+{
+  "skins": [
+    {
+      "localization_name": "Skin1",
+      "geometry": "geometry.humanoid.herois",
+      "texture": "skin.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Skin2",
+      "geometry": "geometry.humanoid.herois",
+      "texture": "skin2.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Skin3",
+      "geometry": "geometry.humanoid.herois",
+      "texture": "skin3.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Skin4",
+      "geometry": "geometry.humanoid.herois",
+      "texture": "skin4.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Skin5",
+      "geometry": "geometry.humanoid.herois",
+      "texture": "skin5.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "NewPack",
+  "localization_name": "NewPack"
+}

@@ -1,0 +1,15 @@
+{
+    "format_version": 1,
+    "header": {
+        "name": "NewPack",
+        "uuid": "c18e65aa-7b22-4637-9b63-8ad63622ef01",
+        "version": [ 1, 0, 0 ]
+        },
+    "modules": [
+        {
+            "type": "skin_pack",
+            "uuid": "d0823c95-37e8-4ade-8663-6cd39996fac5",
+            "version": [ 1, 0, 0 ]
+        }
+    ]
+}
